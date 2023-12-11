@@ -14,7 +14,7 @@
     }
 
     .btn-action {
-        width: 15%; /* Set the width as needed */
+        width: 30%; /* Set the width as needed */
       
     }
 </style>
@@ -48,7 +48,7 @@
                     <th>Tenant</th>
                     <th>Number of Viewer</th>
                     <th>Status</th>
-                    <th width="30%">Action</th>
+                    <th width="40%">Action</th>
                 </tr>
             </thead>
             <tbody>
